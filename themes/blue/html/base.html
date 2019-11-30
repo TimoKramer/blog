@@ -9,7 +9,6 @@
           type="text/css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/default.min.css">
     {% style "css/screen.css" %}
 </head>
 <body>
@@ -80,14 +79,9 @@
             </div>
         </div>
     </div>
-    <footer>Copyright &copy; {{today|date:yyyy}} {{author}}
-        <p style="text-align: center;">Powered by <a href="http://cryogenweb.org">Cryogen</a></p></footer>
+    <footer>Meine selbst erstellten Inhalte stehen unter der Lizenz CC BY 4.0
+        <p style="text-align: center;">Powered by <a href="http://cryogenweb.org">Cryogen</a></p>
+    </footer>
 </div>
-<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-{% script "js/highlight.pack.js" %}
-<script>hljs.initHighlightingOnLoad();</script>
-{% if post.klipse %} {{post.klipse|safe}} {% endif %}
-{% if page.klipse %} {{page.klipse|safe}} {% endif %}
 </body>
 </html>
