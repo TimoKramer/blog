@@ -1,6 +1,6 @@
 {:title "Martin Kleppmann - Syncing data across user devices for distributed collaboration"
  :layout :post
- :tags  ["cyber", "distributed systems", "crdt"]}
+ :tags  ["cyber", "distributed systems", "crdt", "martin kleppmann"]}
 
 Martin Kleppmann hat bei der Hydra-Konferenz einen sehr spannenden Vortrag über CRDTs gehalten. Das war bis dahin noch neu für mich. Ich interessiere mich schon lange für verteile Systeme und dachte immer, dass es ohne zentrale Instanz kaum möglich ist, Konflikte aufzulösen. Die Blockchain hat mich auch nur kurz interessiert, da ich mich mit dem Gedanken der Hash-Berechnung nicht anfreunden konnte und weil mich die doch recht hohe Zentralisierung gestört hat.
 

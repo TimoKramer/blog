@@ -1,6 +1,6 @@
 {:title "Kelsey Hightower - Monoliths are the future"
  :layout :post
- :tags  ["cyber", "complexity", "kelsey hightower", "fefe"]}
+ :tags  ["cyber", "complexity", "distributed systems", "kelsey hightower", "fefe"]}
 
 [Kelsey Hightower in einem Podcast](https://changelog.com/posts/monoliths-are-the-future) von changelog gefunden auf hackernews. Er erklärt, warum es bei fehlender Entwicklerdisziplin auch nichts bringt, auf Microservices und Kubernetes umzusteigen. Verteilte Systeme erzeugen viel mehr Komplexität und bringen nichts, wenn sich der Code nicht fuer diese eignet.
 

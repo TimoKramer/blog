@@ -1,6 +1,6 @@
 {:title "Fefe - Das nützlich-unbedenklich Spektrum"
  :layout :post
- :tags  ["cyber", "komplexitaet", "36c3"]}
+ :tags  ["cyber", "komplexitaet", "36c3", "fefe"]}
 
 [Der immer wieder gute Fefe erzählt hier über die Komplexität von Software.](https://media.ccc.de/v/36c3-10608-das_nutzlich-unbedenklich_spektrum)
 

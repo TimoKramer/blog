@@ -1,6 +1,6 @@
 {:title "Kyle Kingsbury - Jepsen"
  :layout :post
- :tags  ["cyber", "distributed systems"]}
+ :tags  ["cyber", "distributed systems", "kyle kingsbury"]}
 
 Kyle Kingsbury forscht an verteilten Systemen und testet mit seiner Software Jepsen verteilte Systeme und vor allem Datenbanken auf Konsistenz. Damit ist er so erfolgreich, dass er in den meisten getesteten Systemen schwerwiegende Fehler findet, die teilweise zu Datenverlust führen. [Alle seine Vorträge](https://jepsen.io/talks) sind sehr empfehlenswert und unterhaltsam.
 
