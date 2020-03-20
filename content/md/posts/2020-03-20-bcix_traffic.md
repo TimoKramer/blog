@@ -12,3 +12,5 @@ Beim [DE-CIX](https://www.de-cix.net/en/locations/germany/frankfurt/statistics) 
 
 Laut [diesem Artikel bei Golem](https://www.golem.de/news/internet-traffic-de-cix-sieht-keinen-grund-zur-sorge-2003-147350.html) gibt es auch keine Sorge bei den Netzbetreibern, dass das Internet wirklich großflächig ausfällt. Vielleicht sehen das Telekom, Vodafone und Konsorten anders. Die sind ja die, die die alten Leitungen noch aus Profitmaximierungsgründen ausquetschen, was sich evtl. jetzt rächt.
 Wir werden sehen...
+
+Update: Wer mal sehen will, warum das Thema Internet-Meltdown aufgekommen ist und vor allem warum jetzt Netflix seine Datenrate reduziert hat, der kann sich ja mal [den Fefe reinlesen](https://blog.fefe.de/?ts=a08a4c6e).
