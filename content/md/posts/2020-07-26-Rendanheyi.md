@@ -11,7 +11,7 @@ Mit Arbeitsrecht ist vieles davon nicht vereinbar, aber in China ist das nicht g
 Aber ich will das hier gar nicht schlecht reden. Besonders interessant finde ich die Struktur, weil das Management häufig im heutigen unsicheren Marktumfeld versagt. Ich glaube daran, dass es sinnvoll ist die Strukturen eher am Interesse von Kunden zu orientieren. Außerdem finde ich die Organisation interessant wenn sie konsequent in Arbeiterhand ist. Als Genossenschaft und Kooperative kann ich mir die Struktur sehr gut vorstellen.
 
 Quellen:
-- https://oro.open.ac.uk/56044/1/Haier%27s%20Rendanheyi%20%28CMR%202018%29%20final%20accepted%20version.pdf (sehr gutes Paper zum Thema)
-- https://medium.com/work-futures/evolution-of-the-platform-organization-3-haier-rendanheyi-and-zhang-ruimins-vision-d8afceef7f5e (Vorsicht Medium!)
-- https://www.carmenfrantzkovacs.com/inspiration/rendanheyi-weist-china-den-weg-zur-organisation-der-zukunft (Deutsch)
-- https://hbr.org/2018/11/the-end-of-bureaucracy (Englisch, sehr ausführlich und detailliert)
+- <https://oro.open.ac.uk/56044/1/Haier%27s%20Rendanheyi%20%28CMR%202018%29%20final%20accepted%20version.pdf> (sehr gutes Paper zum Thema)
+- <https://medium.com/work-futures/evolution-of-the-platform-organization-3-haier-rendanheyi-and-zhang-ruimins-vision-d8afceef7f5e> (Vorsicht Medium!)
+- <https://www.carmenfrantzkovacs.com/inspiration/rendanheyi-weist-china-den-weg-zur-organisation-der-zukunft> (Deutsch)
+- <https://hbr.org/2018/11/the-end-of-bureaucracy> (Englisch, sehr ausführlich und detailliert)
